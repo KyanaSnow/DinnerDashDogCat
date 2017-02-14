@@ -1,0 +1,17 @@
+Thumbs.db
+Temp
+Links
+Docs
+Builds
+Assembly*
+obj
+*.sln
+*.suo
+*.userprefs
+*.csproj.user
+*.pdb
+/obj/
+/bin/
+Library
+/Library
+Project
